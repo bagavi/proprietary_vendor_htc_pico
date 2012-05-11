@@ -76,5 +76,5 @@ PRODUCT_COPY_FILES += \
    vendor/htc/pico/proprietary/AudioFilter.csv:/system/etc/AudioFilter.csv \
    vendor/htc/pico/proprietary/AudioPara4.csv:/system/etc/AudioPara4.csv \
    vendor/htc/pico/proprietary/AudioPara4_WB.csv:/system/etc/AudioPara4_WB.csv \
-   vendor/htc/pico/proprietary/AudioPreProcess.csv:/system/bin/AudioPreProcess.csv \
+   vendor/htc/pico/proprietary/AudioPreProcess.csv:/system/etc/AudioPreProcess.csv \
 
