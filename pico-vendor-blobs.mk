@@ -68,7 +68,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/pico/proprietary/libOlaEngine.so:/system/lib/libOlaEngine.so \
     vendor/htc/pico/proprietary/libwsp.so:/system/lib/libwsp.so \
     vendor/htc/pico/proprietary/libwsp_jni.so:/system/lib/libwsp_jni.so \
-    vendor/htc/mecha/proprietary/libreference-cdma-sms.so:/system/lib/libreference-cdma-sms.so \
+    vendor/htc/pico/proprietary/libreference-cdma-sms.so:/system/lib/libreference-cdma-sms.so \
 
 # Misc. Props
 PRODUCT_COPY_FILES += \    
